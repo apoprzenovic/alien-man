@@ -1,0 +1,50 @@
+/**
+ * 
+@ASSESSME.INTENSITY:LOW
+ */
+#pane {
+    -fx-background-image: url("../media/images/background/background.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1150 750;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#imageLabel {
+    -fx-background-image: url("../media/images/wasd.gif");
+    -fx-graphic-text-gap: 10;
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+
+#imageLabelWASD {
+    -fx-background-image: url("../media/images/wasd.gif");
+    -fx-graphic-text-gap: 10;
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+
+#imageLabelMainMenu {
+    -fx-background-image: url("../media/images/background/main-menu-bg.png");
+    -fx-graphic-text-gap: 10;
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+
+#imageLabelDeathScreen {
+    -fx-background-image: url("../media/images/background/youdied.gif");
+    -fx-graphic-text-gap: 10;
+    /* -fx-background-size: 100% 100%; */
+    -fx-background-color: black;
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
+
+#imageLabelWinScreen {
+    -fx-background-image: url("../media/images/background/youwin.gif");
+    -fx-graphic-text-gap: 10;
+    -fx-background-size: 100% 100%;
+    -fx-background-color: black;
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
