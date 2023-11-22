@@ -1,4 +1,4 @@
-# Alien Man Game
+# 👽 Alien Man Game
 
 ## Description
 "Alien Man" is a first-year game development project, a creative clone of the classic Pac-Man game. This version incorporates trigonometric functions for advanced distance and route calculations, offering a unique twist to the traditional gameplay. The game features custom image design and matrix-based movement, providing an engaging and visually appealing experience.
